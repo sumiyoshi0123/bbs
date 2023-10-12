@@ -1,0 +1,66 @@
+.header-item{
+    text-align: center;
+}
+
+.alert-success{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.create__form{
+    width: 100%;
+    text-align: center;
+}
+
+.form__item{
+    margin: 10px 0 10px 0;
+}
+
+.form__item-content{
+    display: flex;
+    justify-content: center;
+}
+
+.form__item-submit{
+    margin: 20px;
+}
+
+.form__error{
+    color: crimson;
+}
+
+.search__form{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.search__form-item{
+    margin-bottom: 10px;
+}
+
+
+
+.form__data{
+    width: 80%;
+    padding-left: 250px;
+    margin: 10px;
+}
+
+.form__data-item{
+    border: solid 1px blue;
+    margin-bottom: 30px;
+}
+
+.form__data-date{
+    text-align: end;
+}
+
+.form__data-title{
+    border-bottom: solid 1px orange;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.form__data-content{
+    margin: 10px;
+}
